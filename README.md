@@ -12,3 +12,7 @@ Problem Statement
 The objective of this capstone project is to discover customer segments that share common traits and find which customer segment is going to respond best to which offer type.  To solve this problem K-Means algorithm is used to find customer segments that respond similary to different kinds of offers.
 
 Nine segments were identified based on silhouette score. Refer to the report for complete details.
+
+
+# References
+Determining The Optimal Number Of Clusters (https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
