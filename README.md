@@ -16,4 +16,5 @@ Nine segments were identified based on silhouette score. Refer to the report for
 
 # References
 Determining The Optimal Number Of Clusters (https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
-https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6
+
+Empowering personalized marketing https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6
