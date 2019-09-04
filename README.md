@@ -18,3 +18,7 @@ Nine segments were identified based on silhouette score. Refer to the report for
 Determining The Optimal Number Of Clusters (https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
 
 Empowering personalized marketing https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6
+
+
+# Licensing and Acknowledgements
+Must give credit to Udacity and Starbucks for the data as part of final capstone project of Udacity MLE Nanodegree.
